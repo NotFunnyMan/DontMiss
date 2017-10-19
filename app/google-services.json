@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344781005900",
+    "firebase_url": "https://don-t-miss.firebaseio.com",
+    "project_id": "don-t-miss",
+    "storage_bucket": "don-t-miss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344781005900:android:8348001db6b1b599",
+        "android_client_info": {
+          "package_name": "com.nodomain.dontmiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344781005900-t0k6u0fqocuc70oieo62fenl0qnii440.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nodomain.dontmiss",
+            "certificate_hash": "39b8f05afc7a5812508123f4db665e7664cd1f99"
+          }
+        },
+        {
+          "client_id": "344781005900-u3tl8k220edpro0ndp0ekc5dokp9m7qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFswbwL_puTBg9f6PFDZLfaLykgVzItE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344781005900-u3tl8k220edpro0ndp0ekc5dokp9m7qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
